@@ -49,16 +49,17 @@ app = Flask(__name__)
 
 # Creating a welcome statement with route references
 # /api/v1.0/ signifies this is V1 of our application
+# <br/> for new line via https://stackoverflow.com/questions/12244057/any-way-to-add-a-new-line-from-a-string-with-the-n-character-in-flask
 
 @app.route("/")
 def welcome():
     return(
     '''
-    Welcome to the Climate Analysis API!\n
-    Available Routes:\n
-    /api/v1.0/precipitation\n
-    /api/v1.0/stations\n
-    /api/v1.0/tobs\n
+    Welcome to the Climate Analysis API!<br/>
+    Available Routes:<br/>
+    /api/v1.0/precipitation<br/>
+    /api/v1.0/stations<br/>
+    /api/v1.0/tobs<br/>
     /api/v1.0/temp/start/end
     ''')
 
