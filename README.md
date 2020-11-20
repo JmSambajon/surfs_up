@@ -14,9 +14,11 @@ Three key differences in weather between June and December
  - There are a lot more weather records recorded durin June (1700 temperatures recorded) than there are in December (1517 temperatures recorded).
  
  June weather statistics
+
 ![june](June_Temperature_Statistics.png)
 
 December weather statistics
+
 ![december](December_Temperature_Statistics.png)
 
 ## Summary
