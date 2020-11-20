@@ -6,4 +6,6 @@ We are trying to open a Surf n' Shake shop in Oahu and we will be exploring temp
 
 ## Results
 
+ ![june]('June Temperature Statistics.png')
+
 ## Summary
