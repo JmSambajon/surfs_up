@@ -23,3 +23,9 @@ December weather statistics
 
 ## Summary
 Based on the weather summary statistics, we can determine the average weather will be in the 70s during the summer and winter seasons. While we have information about these two seasons, this is not enough to confirm year-round sustainability. I recommend we run two more queries, one to find temperatures during March and one  to find temperatures during Septermber. This will give us a more detailed picture about the weather throughout the entire year.
+
+March Temperature statistics
+![march](March_Temperature_Statistics.png)
+
+December Temperature statistics
+![September](September_Temperature_Statistics.png)
