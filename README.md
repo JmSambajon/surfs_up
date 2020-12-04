@@ -27,5 +27,5 @@ Based on the weather summary statistics, we can determine the average weather wi
 March Temperature statistics
 ![march](March_Temperature_Statistics.png)
 
-December Temperature statistics
+September Temperature statistics
 ![September](September_Temperature_Statistics.png)
